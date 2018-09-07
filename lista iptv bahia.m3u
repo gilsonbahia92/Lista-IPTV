@@ -147,10 +147,6 @@ http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo02TVBRASIL.png" group-title="CANAL ABERTO", TV BRASIL
-http://138.121.69.14/vod/ocp(t(FVH_P1UdFD4.)r(PzxGDQ..)a(sZqrrw..)p(d(HgA.)k(ik0.)m(PJzDwSNFfC3nFjikeywqCA..)n(a(Ocpkrw..)s(OT0.)'a(-tZwVQ..)s(ZG0.)'a(Fb0-_A..)s(Cy8.)))s(s(vdU.)b(39W5Kod1vQp3lMJhxIHde2pQ5hQ8pur0uSGGl0wQ1Vhafj-sdVkC_d15BcIszCS6m-I.)'s(ApQ.)b(_vVDCjGJqVcOIRD_Nbjj5qqmEf6UxXFiPmEfd8a3yqWZ)'s(71k.)b(-w66k4lNqA..))m(0))/prog_index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Logotipo_da_TVE_Bahia.PNG" group-title="CANAL ABERTO", TVE BAHIA - TV BRASIL
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
 
