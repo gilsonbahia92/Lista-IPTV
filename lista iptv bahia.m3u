@@ -170,16 +170,12 @@ http://wpc.9280f.sigmacdn.net/249280F/default/default.m3u8
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
 
 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/plenitude.png" group-title="CANAL ABERTO RELIGIOSO", TV PLENITUDE SP
-http://site.paineldecontrole.info:1935/live/smil:plenitude.smil/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO", FUTURA - TVUP
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/logo-mega-tv.png" group-title="São Paulo", MEGA TV SP
-http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/playlist.m3u8
+https://rtmp.cdn.upx.net.br/00135_4/myStream.sdp/chunklist.m3u8?f1838b1e0395eea5ef4dce49e5d8eb9f
 
 
 #EXTINF:-1 tvg-logo="http://gvnews.com.br/wp-content/uploads/2016/03/logo-brancosemespac5.png" group-title="CANAL ABERTO", GV NEWS
