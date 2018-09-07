@@ -195,7 +195,7 @@ http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cbn.png" group-title="RADIOS",CBN SP 90.5 FM
-http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
+http://stream.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/2qv5g5i.png" grup-title"Musica", MUSIC TOP HD
