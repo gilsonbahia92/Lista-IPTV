@@ -178,6 +178,10 @@ https://rtmp.cdn.upx.net.br/00135_4/myStream.sdp/chunklist.m3u8?f1838b1e0395eea5
 http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/971807130931081216/NNju3AUM_400x400.jpg" group-title="CANAL ABERTO", TV JUSTIÇA
+https://youtu.be/3-7mJteOsxY
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV.png" group-title="Paraná", TV TRANSAMÉRICA PR
 http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
 
