@@ -65,6 +65,7 @@ http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctve
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", GLOBO MINAS
+<iframe width="550" height="308" src="https://www.youtube.com/embed/LmEVoxXn6dE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 #EXTINF:-1 tvg-logo="https://noticias.gospelmais.com.br/files/2015/05/rede-super-de-televisao-e1432812160707.jpg" group-title="CANAL ABERTO", REDE SUPER
