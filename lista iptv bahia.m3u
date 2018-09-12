@@ -65,7 +65,6 @@ http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctve
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO", GLOBO MINAS
-https://www.youtube.com/embed/LmEVoxXn6dE
 
 
 #EXTINF:-1 tvg-logo="https://noticias.gospelmais.com.br/files/2015/05/rede-super-de-televisao-e1432812160707.jpg" group-title="CANAL ABERTO", REDE SUPER
@@ -136,7 +135,7 @@ https://5a8d73edc0407.streamlock.net:443/omdvia1str/viawebtv1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Fy9RUA0gCsM/WNa8svChcaI/AAAAAAAAF0g/zddji5mzrhYVDxg6VWpHX0wUoJ_WzUPwQCLcB/s1600/Logo-Programas-Cine.jpg" group-title="CANAL ABERTO", CINE MAIS
-https://live.sba1.com/hls/cm/index.m3u8
+http://189.86.89.117:8080/hls/livecm/1_2/index.m3u8?sessId=4716
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bd7faf92fdaec94b7a0b2ca5f5f362b1.png" group-title="CANAL ABERTO RELIGIOSO", TVCI
