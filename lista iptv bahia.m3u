@@ -171,19 +171,17 @@ http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8
 https://youtu.be/3-7mJteOsxY
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV.png" group-title="Paraná", TV TRANSAMÉRICA PR
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV.png" group-title=" RÁDIO", TV TRANSAMÉRICA PR
 http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" group-title="RADIOS",FM O DIA 100.5
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" group-title="RÁDIO",FM O DIA 100.5
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2qv5g5i.png" grup-title"Musica", MUSIC TOP HD
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2qv5g5i.png" grup-title"MÚSICA", MUSIC TOP HD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/virgin.png" group-title="MUSICA", VIRGIN TV
 http://fms.105.net:1935/live/virgin2%20/index.m3u8
-
-
