@@ -2,7 +2,16 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.tvminas.com/adminnews/imagens/foto_tv/2920162807/foto_principal.jpg" group-title="CANAL ABERTO", REDE MINAS
-https://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VCxqNjXKHAfw%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368_DVR.m3u8?sts=st=1531955150~exp=1531961750~acl=/*~hmac=1e839c70482409b391edd928078444c40a61ad9b2e7dfcc3fbce015a92dbb87b
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:18
+#EXT-X-MEDIA-SEQUENCE:903
+#EXTINF:16.684,
+media-u8x9vngs7_b954368_903.ts
+#EXTINF:8.341,
+media-u8x9vngs7_b954368_904.ts
+#EXTINF:8.342,
+media-u8x9vngs7_b954368_905.ts
 
 
 #EXTINF:-1 tvg-logo="http://images.redetv.uol.com.br/thumbnail_aovivo/default.jpg" group-title="CANAL ABERTO", REDE TV
