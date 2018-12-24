@@ -29,6 +29,10 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIO
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 
 
+#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/926499453158137857/V72h9Tzw_400x400.jpg" group-title = "CANAL FECHADO", GLOBO NEWS
+http://ul.cdn584.net:8080/hls/4gvx3ri.m3u8?s=wy0xv6mr9Q7kb1KhyWHikg&e=1545631256
+
+
 #EXTINF: -1 tvg-logo = "http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/logo-mega-tv.png" group-title = "CANAL ABERTO", MEGA TV SP
 https://rtmp.cdn.upx.net.br/00135_4/myStream.sdp/chunklist.m3u8?f1838b1e0395eea5ef4dce49e5d8eb9f
 
@@ -124,8 +128,13 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title = "CANAL ABERTO RELIGIOSO", TV EVANGELIZAR
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title = "CANAL ABERTO", TV EVANGELIZAR
 http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://i0.wp.com/goo.gl/1XNfzj" group-title = "CANAL ABERTO", TV GAZETA SP
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
 
 #EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1013894549624836101/x3CyB3CN_400x400.jpg" title-group = "CANAL ABERTO", TV NBR
 http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/manifest.m3u8
@@ -145,5 +154,3 @@ http://173.236.10.10:1935/webtvminas/webtvminas/playlist.m3u8
 
 #EXTINF: -1 tvg-logo = "http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" título do grupo = "RÁDIO", FM O DIA 100,5
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
-
-
