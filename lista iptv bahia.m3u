@@ -17,8 +17,8 @@ https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8
 
 
 
-#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1073273388104339456/3u9VMjLv_400x400.jpg" grupo-título = "CANAL ABERTO", CANAL RURAL
-http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+#EXTINF: -1 tvg-logo = "http://canalrural.uol.com.br/wp-content/themes/mcmurphy/img/logo.png" grupo-título = "CANAL ABERTO", CANAL RURAL
+http://evpp.mm.uol.com.br/canal_rural/aovivo.sdp/chunklist_w1352187877.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/727963016579457024/cv_s6Xva_400x400.jpg" group-title = "CANAL ABERTO", CANÇÃO NOVA HD
