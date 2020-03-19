@@ -1,5 +1,12 @@
 # EXTM3U
 
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="CANAL ABERTO", RECORD TV
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF: -1 tvg-logo = "http://images.redetv.uol.com.br/thumbnail_aovivo/default.jpg" group-title = "CANAL ABERTO", REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w2138400015.m3u8
+
 
 #EXTINF: -1 tvg-logo = "https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title = "CANAL ABERTO", TV APARECIDA
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
@@ -39,10 +46,6 @@ http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
 
 #EXTINF: -1 tvg-logo = "https://noticias.gospelmais.com.br/files/2015/05/rede-super-de-televisao-e1432812160707.jpg" group-title = "CANAL ABERTO", REDE SUPER
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
-
-
-#EXTINF: -1 tvg-logo = "http://images.redetv.uol.com.br/thumbnail_aovivo/default.jpg" group-title = "CANAL ABERTO", REDE TV
-http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title = "CANAL ABERTO RELIGIOSO", REDE VIDA
@@ -97,8 +100,7 @@ http://173.236.10.10:1935/webtvminas/webtvminas/playlist.m3u8
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="Variedades", RecordTV
-https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&rebase=on
+
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="Variedades",Band (SP)
