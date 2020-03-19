@@ -17,7 +17,7 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
 
 
 #EXTINF: -1 TVG-logotipo = "https://pbs.twimg.com/profile_images/1068659066203979776/iarwbED-_400x400.jpg" grupo-title = "CANAL ABERTO", TV CULTURA
-https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title = "CANAL ABERTO", TV MUNDIAL
