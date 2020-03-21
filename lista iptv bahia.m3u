@@ -70,11 +70,11 @@ http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 #EXTINF: -1 tvg-logo = "http://i67.tinypic.com/2qv5g5i.png" grup-título "CANAL FECHADO", MUSIC TOP HD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="Pública", REDE MINAS
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="CANAL ABERTO", REDE MINAS
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/3311721630/af7dcbbe57b910570faadf1285f28387_400x400.jpeg" grupo-título = "CANAL ABERTO", TV ALMG
+#EXTINF: -1 tvg-logo = "https://twitter.com/tvalmg/photo" grupo-título = "CANAL ABERTO", TV ALMG
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8
 
 
