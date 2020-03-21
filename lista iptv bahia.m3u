@@ -1,11 +1,15 @@
 # EXTM3U
 
-#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1071029201942274049/0NyKfIF-_400x400.jpg"group-title =" CANAL ABERTO ", SBT HD
+#EXTINF: -1 tvg-logo = "https://twitter.com/SBTonline/photo"group-title =" CANAL ABERTO ", SBT HD
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="CANAL ABERTO", RECORD TV
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="CANAL ABERTO", BAND
+https://video01.kshost.com.br/rba2779/rba2779/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo = "http://images.redetv.uol.com.br/thumbnail_aovivo/default.jpg" group-title = "CANAL ABERTO", REDE TV
@@ -66,6 +70,9 @@ http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 #EXTINF: -1 tvg-logo = "http://i67.tinypic.com/2qv5g5i.png" grup-título "CANAL FECHADO", MUSIC TOP HD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="Pública", REDE MINAS
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
 
 #EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/3311721630/af7dcbbe57b910570faadf1285f28387_400x400.jpeg" grupo-título = "CANAL ABERTO", TV ALMG
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8
@@ -99,11 +106,6 @@ http://173.236.10.10:1935/webtvminas/webtvminas/playlist.m3u8
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="Variedades",Band (SP)
-https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 
 
