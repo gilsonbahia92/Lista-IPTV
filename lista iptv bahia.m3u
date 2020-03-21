@@ -4,8 +4,16 @@
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF: -1 tvg-logo = "http://images.redetv.uol.com.br/thumbnail_aovivo/default.jpg" group-title = "CANAL ABERTO", REDE TV - TV PAMPA
+#EXTINF: -1 tvg-logo = "http://images.redetv.uol.com.br/thumbnail_aovivo/default.jpg" group-title = "CANAL ABERTO", REDE TV
 https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede_famc3adlia.png" group-title="CANAL ABERTO", REDE FAMÍIA
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w683961222_b1300000.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title = "CANAL ABERTO", TV MUNDIAL
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
 #EXTINF: -1 tvg-logo = "https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title = "CANAL ABERTO", TV APARECIDA
@@ -18,10 +26,6 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
 
 #EXTINF: -1 TVG-logotipo = "https://pbs.twimg.com/profile_images/1068659066203979776/iarwbED-_400x400.jpg" grupo-title = "CANAL ABERTO", TV CULTURA
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8
-
-
-#EXTINF: -1 tvg-logo = "https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title = "CANAL ABERTO", TV MUNDIAL
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
 #EXTINF: -1 tvg-logo = "https://listaiptvbrasil.com/logo/futura.png" group-title = "CANAL ABERTO", FUTURA - TV UP
@@ -107,7 +111,6 @@ http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb
 https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede_famc3adlia.png" group-title="Variedades", Rede Família
-https://cdn0.showcase.com.br/hls/redefamilia/index.m3u8
+
 
 
