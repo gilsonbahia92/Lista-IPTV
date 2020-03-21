@@ -1,11 +1,19 @@
 # EXTM3U
 
+#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1071029201942274049/0NyKfIF-_400x400.jpg"group-title =" CANAL ABERTO ", SBT HD
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="CANAL ABERTO", RECORD TV
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF: -1 tvg-logo = "http://images.redetv.uol.com.br/thumbnail_aovivo/default.jpg" group-title = "CANAL ABERTO", REDE TV
 https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://i0.wp.com/goo.gl/1XNfzj" group-title = "CANAL ABERTO", TV GAZETA SP
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede_famc3adlia.png" group-title="CANAL ABERTO", REDE FAMÍIA
@@ -59,10 +67,6 @@ http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1071029201942274049/0NyKfIF-_400x400.jpg"group-title =" CANAL ABERTO ", SBT HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
-
-
 #EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/3311721630/af7dcbbe57b910570faadf1285f28387_400x400.jpeg" grupo-título = "CANAL ABERTO", TV ALMG
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8
 
@@ -85,10 +89,6 @@ http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title = "CANAL ABERTO", TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-
-#EXTINF: -1 tvg-logo = "https://i0.wp.com/goo.gl/1XNfzj" group-title = "CANAL ABERTO", TV GAZETA SP
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://1.bp.blogspot.com/-6yySITZDc7w/WkPPOE8JTlI/AAAAAAAAIdU/ldijaJWeKUEcOB2SeWtsUazP53ImdkLjACLcBGAs/s1600/Web-TV-Minas.png" group-title = "CANAL ABERTO", WEB TV MINAS
