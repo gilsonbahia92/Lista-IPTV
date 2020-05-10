@@ -24,7 +24,7 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w683961222_b1300000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Rede_Brasil_de_Televis%C3%A3o#/media/Ficheiro:Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="CANAL ABERTO", REDE BRASIL
+#EXTINF:-1 tvg-logo="https://twitter.com/OficialRBTV/photo" group-title="CANAL ABERTO", REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w126501766.m3u8
 
 
