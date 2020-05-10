@@ -16,7 +16,7 @@ https://video01.kshost.com.br/rba2779/rba2779/playlist.m3u8
 https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://www.tvgazeta.com.br/wp-content/uploads/2014/09/LOGO-GAZETA-COR-web.png" group-title = "CANAL ABERTO", TV GAZETA SP
+#EXTINF: -1 tvg-logo = "https://juristas.com.br/wp-content/uploads/2018/08/logo-gazeta.png" group-title = "CANAL ABERTO", TV GAZETA SP
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
 
