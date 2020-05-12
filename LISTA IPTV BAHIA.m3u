@@ -36,29 +36,31 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1265017
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
 
 
-#EXTINF: -1 tvg-logo = "https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title = "CANAL ABERTO RELIGIOSO", TV MUNDIAL
+#EXTINF: -1 tvg-logo="https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title="CANAL ABERTO RELIGIOSO", TV MUNDIAL
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF: -1 tvg-logo = "https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title = "CANAL ABERTO RELIGIOSO", TV NOVO TEMPO
+#EXTINF: -1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="CANAL ABERTO RELIGIOSO", TV NOVO TEMPO
 http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w503079136_b2128000_slpor.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="CANAL ABERTO RELIGIOSO",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="CANAL ABERTO RELIGIOSO", GOSPEL CARTOON
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title = "CANAL ABERTO RELIGIOSO", TV APARECIDA
+
+#EXTINF: -1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="CANAL ABERTO RELIGIOSO", TV APARECIDA
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
 
 
-#EXTINF: -1 tvg-logo = "https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title = "CANAL ABERTO RELIGIOSO", REDE VIDA
+#EXTINF: -1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="CANAL ABERTO RELIGIOSO", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "http://www.cxtv.com.br/img/Tvs/Logo/bd7faf92fdaec94b7a0b2ca5f5f362b1.png" grupo-título = "CANAL ABERTO RELIGIOSO", TVCI - PAI ETERNO
+#EXTINF: -1 tvg-logo= "http://www.cxtv.com.br/img/Tvs/Logo/bd7faf92fdaec94b7a0b2ca5f5f362b1.png" grupo-título = "CANAL ABERTO RELIGIOSO", TVCI - PAI ETERNO
 http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
 
 
