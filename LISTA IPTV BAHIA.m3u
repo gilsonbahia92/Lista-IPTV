@@ -12,11 +12,11 @@ https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&reba
 https://video01.kshost.com.br/rba2779/rba2779/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "http://images.redetv.uol.com.br/thumbnail_aovivo/default.jpg" group-title = "CANAL ABERTO", REDE TV
+#EXTINF: -1 tvg-logo="http://images.redetv.uol.com.br/thumbnail_aovivo/default.jpg" group-title="CANAL ABERTO", REDE TV
 https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://juristas.com.br/wp-content/uploads/2018/08/logo-gazeta.png" group-title = "CANAL ABERTO", TV GAZETA SP
+#EXTINF: -1 tvg-logo="https://juristas.com.br/wp-content/uploads/2018/08/logo-gazeta.png" group-title="CANAL ABERTO", TV GAZETA SP
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
 
@@ -28,7 +28,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w110142
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w126501766.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://noticias.gospelmais.com.br/files/2015/05/rede-super-de-televisao-e1432812160707.jpg" group-title = "CANAL ABERTO RELIGIOSO", REDE SUPER
+#EXTINF: -1 tvg-logo="https://noticias.gospelmais.com.br/files/2015/05/rede-super-de-televisao-e1432812160707.jpg" group-title="CANAL ABERTO RELIGIOSO", REDE SUPER
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
 
 
