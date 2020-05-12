@@ -72,32 +72,32 @@ http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
 https://cdn2.showcase.com.br/live/rs21_720p2628k/index.m3u8
 
 
-#EXTINF: -1 tvg-logo = "http://canalrural.uol.com.br/wp-content/themes/mcmurphy/img/logo.png" grupo-título = "CANAL ABERTO", CANAL RURAL
+#EXTINF:-1 tvg-logo="http://canalrural.uol.com.br/wp-content/themes/mcmurphy/img/logo.png" grupo-título="CANAL ABERTO", CANAL RURAL
 
 
-#EXTINF: -1 TVG-logotipo = "https://pbs.twimg.com/profile_images/1068659066203979776/iarwbED-_400x400.jpg" grupo-title = "CANAL ABERTO", TV CULTURA
+#EXTINF:-1 TVG-logotipo= "https://pbs.twimg.com/profile_images/1068659066203979776/iarwbED-_400x400.jpg" grupo-title="CANAL ABERTO", TV CULTURA
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://listaiptvbrasil.com/logo/futura.png" group-title = "CANAL ABERTO", FUTURA - TV UP
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO", FUTURA - TV UP
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png" group-title="CANAL ABERTO", TV ESCOLA
 https://video-rvd-sp-gw-1.rnp.br/live/ocp(t(Ff4zbFoynno)r(TOqkzw)a(u21aHA)p(d(lCo)k(ow8)m(Y_5mnuXzVBChFcIIVXHlfg)n(a(P6GmWw)s(vSE)'a(5S_Tsw)s(h8I)'a(SP4Adw)s(jQY)'a(M7P8fg)s(pKs)))s(s(WJg)b(TAcGqqZYc7PVU78_s9wXdXZYK3pmV9ua5rj98_1W2rW8iTiYgLk13_tDWBmnXDMz1chiSulgRY-QPOtuUg)'s(h8w)b(rddGYChLbOTf2ffsIO03Md2a4ClQqz4QukRYytywUrn6OzEkfw-uVreMY0IpB-oueZBiK8re_de0LPKgSQtuRpu3ZyTL6xVaugXIpcKJ)'s(GQM)b(R5CzpE2r))m(0))/tvescola_index.m3u8
 
 
-#EXTINF: -1 tvg-logo = "http://i67.tinypic.com/2qv5g5i.png" grup-título "CANAL FECHADO", MUSIC TOP HD
+#EXTINF:-1 tvg-logo = "http://i67.tinypic.com/2qv5g5i.png" grup-título "CANAL FECHADO", MUSIC TOP HD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="CANAL ABERTO", REDE MINAS
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://twitter.com/tvalmg/photo" grupo-título = "CANAL ABERTO", TV ALMG
+#EXTINF:-1 tvg-logo="https://twitter.com/tvalmg/photo" grupo-título="CANAL ABERTO", TV ALMG
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8
 
 
-#EXTINF: -1 tvg-logo = "http://ap.imagensbrasil.org/images/logo02TVBRASIL.png" grupo-título = "CANAL ABERTO", TV BRASIL OU TVE
+#EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo02TVBRASIL.png" grupo-título="CANAL ABERTO", TV BRASIL OU TVE
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
 
