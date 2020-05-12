@@ -76,7 +76,12 @@ http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
 https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index_15.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://canalrural.uol.com.br/wp-content/themes/mcmurphy/img/logo.png" grupo-título="CANAL ABERTO", TV JUSTIÇA
+https://www.youtube.com/watch?v=_iPUY8I0ZDw
+
+
 #EXTINF:-1 tvg-logo="http://canalrural.uol.com.br/wp-content/themes/mcmurphy/img/logo.png" grupo-título="CANAL ABERTO", CANAL RURAL
+https://www.youtube.com/watch?v=_iPUY8I0ZDw
 
 
 #EXTINF:-1 TVG-logotipo= "https://pbs.twimg.com/profile_images/1068659066203979776/iarwbED-_400x400.jpg" grupo-title="CANAL ABERTO", TV CULTURA
@@ -86,11 +91,12 @@ https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO", FUTURA
 https://live.video.globo.com/h/0411589412861738250000815893300653247438296FB7IMI-6Yf15YsiYQneDQA/k/html5/a/A/d/s/hls-futura24ha/hls-futura24ha_2126/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png" group-title="CANAL ABERTO", TV ESCOLA
 https://video-rvd-sp-gw-1.rnp.br/live/ocp(t(Ff4zbFoynno)r(TOqkzw)a(u21aHA)p(d(lCo)k(ow8)m(Y_5mnuXzVBChFcIIVXHlfg)n(a(P6GmWw)s(vSE)'a(5S_Tsw)s(h8I)'a(SP4Adw)s(jQY)'a(M7P8fg)s(pKs)))s(s(WJg)b(TAcGqqZYc7PVU78_s9wXdXZYK3pmV9ua5rj98_1W2rW8iTiYgLk13_tDWBmnXDMz1chiSulgRY-QPOtuUg)'s(h8w)b(rddGYChLbOTf2ffsIO03Md2a4ClQqz4QukRYytywUrn6OzEkfw-uVreMY0IpB-oueZBiK8re_de0LPKgSQtuRpu3ZyTL6xVaugXIpcKJ)'s(GQM)b(R5CzpE2r))m(0))/tvescola_index.m3u8
 
 
-#EXTINF:-1 tvg-logo = "http://i67.tinypic.com/2qv5g5i.png" grup-título "CANAL FECHADO", MUSIC TOP HD
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2qv5g5i.png" grup-título="CANAL FECHADO", MUSIC TOP HD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="CANAL ABERTO", REDE MINAS
@@ -105,7 +111,7 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
 
-#EXTINF: -1 tvg-logo = "http://ap.imagensbrasil.org/images/logo02TVBRASIL.png" grupo-título = "CANAL ABERTO", TV BRASIL 2
+#EXTINF: -1 tvg-logo="http://ap.imagensbrasil.org/images/logo02TVBRASIL.png" grupo-título = "CANAL ABERTO", TV BRASIL 2
 https://video-rvd-mg-1.rnp.br/live/ocp(t(Fa_krm1vZWM)r(TOqkzw)a(yIMzFA)p(d(Ujo)k(l0Q)m(IgEm3vqtAEfQRKsl6KTAKg)n(a(WcsH4w)s(fzY)'a(Ah9sjQ)s(iRc)'a(hZftVQ)s(jz0)'a(sMVNYw)s(Zd8)))s(s(CyI)b(nnwFVZn6VdbWG-FsB5nBCR_YfX12O3IgRzASPzvh6929tCnk1C80ZjcJCszXqVC-js5ho3TyJ0_kM-2QVQ)'s(EMw)b(9FHtpXk9cNPRWVqhDO8wJEaPMcaxcMi8szV4FrZ_uBGvC_ynvXu22jTboKzQQD7wuLelfn7yST6A1B_amslpYysPbav5Z3kBvrEI6Vg-)'s(lWk)b(iEfnW9Hy))m(0))/25_index.m3u8
 
 
