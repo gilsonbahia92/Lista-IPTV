@@ -20,6 +20,10 @@ https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
 
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/720682407624630278/8WwwnQGp_400x400.jpg" group-title="CANAL ABERTO", TV PAMPA
+https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede_famc3adlia.png" group-title="CANAL ABERTO", REDE FAMÍIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w1101426683_b446000.m3u8
 
