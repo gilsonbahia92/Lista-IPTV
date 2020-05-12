@@ -1,6 +1,6 @@
 # EXTM3U
 
-#EXTINF: -1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.png" group-title=" CANAL ABERTO ", SBT HD
+#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.png" group-title=" CANAL ABERTO ", SBT HD
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
 
 
@@ -12,11 +12,11 @@ https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&reba
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_da_RedeTV!_(2015%E2%80%932019).png" group-title="CANAL ABERTO", REDE TV
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_da_RedeTV!_(2015%E2%80%932019).png" group-title="CANAL ABERTO", REDE TV
 https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://juristas.com.br/wp-content/uploads/2018/08/logo-gazeta.png" group-title="CANAL ABERTO", TV GAZETA SP
+#EXTINF:-1 tvg-logo="https://juristas.com.br/wp-content/uploads/2018/08/logo-gazeta.png" group-title="CANAL ABERTO", TV GAZETA SP
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
 
@@ -24,7 +24,7 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/720682407624630278/8WwwnQGp_400x400.jpg" group-title="CANAL ABERTO", TV PAMPA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720682407624630278/8WwwnQGp_400x400.jpg" group-title="CANAL ABERTO", TV PAMPA
 https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
 
 
@@ -68,12 +68,12 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="CANAL ABERTO RELIGIOSO", TV EVANGELIZAR
+#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/TV_Evangelizar#/media/Ficheiro:TV_Evangelizar_logo_2019.png" group-title="CANAL ABERTO RELIGIOSO", TV EVANGELIZAR
 http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.rs21.com.br/wp-content/uploads/2016/07/logo-rs21-azul.jpg" group-title="CANAL ABERTO RELIGIOSO", REDE SÉCULO 21
-https://cdn2.showcase.com.br/live/rs21_720p2628k/index.m3u8
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index_15.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://canalrural.uol.com.br/wp-content/themes/mcmurphy/img/logo.png" grupo-título="CANAL ABERTO", CANAL RURAL
