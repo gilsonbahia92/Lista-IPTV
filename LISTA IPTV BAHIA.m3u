@@ -20,6 +20,10 @@ https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_tv_guarc3a1.png" group-title="Jornalismo",Record News - TV Guará (MA)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/720682407624630278/8WwwnQGp_400x400.jpg" group-title="CANAL ABERTO", TV PAMPA
 https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
 
