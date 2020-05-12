@@ -1,6 +1,6 @@
 # EXTM3U
 
-#EXTINF: -1 tvg-logo = "http://www.sbt.com.br/assets/images/logo-sbt.png"group-title =" CANAL ABERTO ", SBT HD
+#EXTINF: -1 tvg-logo = "https://www.sbt.com.br/assets/images/logo-sbt.png"group-title =" CANAL ABERTO ", SBT HD
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
 
 
