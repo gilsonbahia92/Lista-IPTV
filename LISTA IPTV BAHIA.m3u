@@ -29,22 +29,22 @@ https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede_famc3adlia.png" group-title="CANAL ABERTO", REDE FAMÍIA
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w1101426683_b446000.m3u8
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAL ABERTO", REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w126501766.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://noticias.gospelmais.com.br/files/2015/05/rede-super-de-televisao-e1432812160707.jpg" group-title="CANAL ABERTO RELIGIOSO", REDE SUPER
+#EXTINF:-1 tvg-logo="https://noticias.gospelmais.com.br/files/2015/05/rede-super-de-televisao-e1432812160707.jpg" group-title="CANAL ABERTO RELIGIOSO", REDE SUPER
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
 
 
-#EXTINF: -1 tvg-logo="https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title="CANAL ABERTO RELIGIOSO", TV MUNDIAL
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title="CANAL ABERTO RELIGIOSO", TV MUNDIAL
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF: -1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="CANAL ABERTO RELIGIOSO", TV NOVO TEMPO
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="CANAL ABERTO RELIGIOSO", TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
 
 
@@ -56,23 +56,23 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="CANAL ABERTO RELIGIOSO", TV APARECIDA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="CANAL ABERTO RELIGIOSO", TV APARECIDA
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
 
 
-#EXTINF: -1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="CANAL ABERTO RELIGIOSO", REDE VIDA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="CANAL ABERTO RELIGIOSO", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo= "http://www.cxtv.com.br/img/Tvs/Logo/bd7faf92fdaec94b7a0b2ca5f5f362b1.png" grupo-título = "CANAL ABERTO RELIGIOSO", TVCI - PAI ETERNO
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bd7faf92fdaec94b7a0b2ca5f5f362b1.png" grupo-título="CANAL ABERTO RELIGIOSO", TVCI - PAI ETERNO
 http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title = "CANAL ABERTO RELIGIOSO", TV EVANGELIZAR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="CANAL ABERTO RELIGIOSO", TV EVANGELIZAR
 http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://www.rs21.com.br/wp-content/uploads/2016/07/logo-rs21-azul.jpg" group-title = "CANAL ABERTO RELIGIOSO", REDE SÉCULO 21
+#EXTINF:-1 tvg-logo="https://www.rs21.com.br/wp-content/uploads/2016/07/logo-rs21-azul.jpg" group-title="CANAL ABERTO RELIGIOSO", REDE SÉCULO 21
 https://cdn2.showcase.com.br/live/rs21_720p2628k/index.m3u8
 
 
