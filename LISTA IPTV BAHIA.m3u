@@ -68,7 +68,7 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/TV_Evangelizar#/media/Ficheiro:TV_Evangelizar_logo_2019.png" group-title="CANAL ABERTO RELIGIOSO", TV EVANGELIZAR
+#EXTINF:-1 tvg-logo="https://catholicus.org.br/wp-content/uploads/2019/10/adriana-arydes-programa-na-tv-evangelizar-catholicus-696x464.jpg" group-title="CANAL ABERTO RELIGIOSO", TV EVANGELIZAR
 http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
 
 
@@ -127,7 +127,7 @@ http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLnR2bWluYXMwMV9zY3JlZW5fMF8xNTI1NDgyMjkxXzAxOQ/screen-0.jpg?fakeurl=1&type=.jpg" group-title = "CANAL ABERTO", WEB TV MINAS
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-gZrsS-LYKAc/XVmJlUPXSzI/AAAAAAAABh4/0vKrw7sIQfkP7oR3VZDTsj78xqTrrdbUQCLcBGAs/s320/Screenshot_2019-08-18-14-21-21.png" group-title = "CANAL ABERTO", WEB TV MINAS
 http://173.236.10.10:1935/webtvminas/webtvminas/playlist.m3u8
 
 
