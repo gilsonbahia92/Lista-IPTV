@@ -107,12 +107,12 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo02TVBRASIL.png" grupo-título="CANAL ABERTO", TV BRASIL OU TVE
-http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo-top.jpg" grupo-título="CANAL ABERTO", CANAL SAÚDE
+https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w1545116752_DVR.m3u8
 
 
 #EXTINF: -1 tvg-logo="http://ap.imagensbrasil.org/images/logo02TVBRASIL.png" grupo-título = "CANAL ABERTO", TV BRASIL 2
-https://video-rvd-mg-1.rnp.br/live/ocp(t(Fa_krm1vZWM)r(TOqkzw)a(yIMzFA)p(d(Ujo)k(l0Q)m(IgEm3vqtAEfQRKsl6KTAKg)n(a(WcsH4w)s(fzY)'a(Ah9sjQ)s(iRc)'a(hZftVQ)s(jz0)'a(sMVNYw)s(Zd8)))s(s(CyI)b(nnwFVZn6VdbWG-FsB5nBCR_YfX12O3IgRzASPzvh6929tCnk1C80ZjcJCszXqVC-js5ho3TyJ0_kM-2QVQ)'s(EMw)b(9FHtpXk9cNPRWVqhDO8wJEaPMcaxcMi8szV4FrZ_uBGvC_ynvXu22jTboKzQQD7wuLelfn7yST6A1B_amslpYysPbav5Z3kBvrEI6Vg-)'s(lWk)b(iEfnW9Hy))m(0))/25_index.m3u8
+https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
 
 
 #EXTINF: -1 tvg-logo = "http://www.camara.leg.br/internet/tvcamara/conteudo/img/tvcamara_poster.png" group-title = "CANAL ABERTO", TV CÂMARA
