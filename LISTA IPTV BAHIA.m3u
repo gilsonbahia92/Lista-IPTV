@@ -76,7 +76,7 @@ http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
 https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index_15.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Top_TV#/media/Ficheiro:LOGO_TOP_TV_HD.png" grupo-título="CANAL ABERTO", TOP TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2a5ebc5035219e29f0b474691d0b1041.png" grupo-título="CANAL ABERTO", TOP TV
 https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w2014788332.m3u8
 
 
@@ -107,11 +107,11 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo-top.jpg" grupo-título="CANAL ABERTO", CANAL SAÚDE
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/245d0e1a9266a0570fde3621c804a2d3.jpg" grupo-título="CANAL ABERTO", CANAL SAÚDE
 https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w1545116752_DVR.m3u8
 
 
-#EXTINF: -1 tvg-logo="http://ap.imagensbrasil.org/images/logo02TVBRASIL.png" grupo-título = "CANAL ABERTO", TV BRASIL 2
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" grupo-título = "CANAL ABERTO", TV BRASIL 2
 https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
 
 
