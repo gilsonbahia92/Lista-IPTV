@@ -87,7 +87,7 @@ http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 https://d338xh8x3vxa9e.cloudfront.net/out/v1/7d3c93fd8b74415d988bafbb9d515db3/index.m3u8
 
 
-#EXTINF:-1 TVG-logotipo="http://www.sjsp.org.br/images/-350x263xwiden-f9ed4.jpg" grupo-title="CANAL ABERTO", TV CULTURA
+#EXTINF:-1 tvg-logotipo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" grupo-title="CANAL ABERTO", TV CULTURA
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8
 
 
