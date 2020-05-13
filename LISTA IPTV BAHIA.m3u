@@ -127,11 +127,11 @@ http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-6yySITZDc7w/WkPPOE8JTlI/AAAAAAAAIdU/ldijaJWeKUEcOB2SeWtsUazP53ImdkLjACLcBGAs/s1600/Web-TV-Minas.png" group-title = "CANAL ABERTO", WEB TV MINAS
+#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLnR2bWluYXMwMV9zY3JlZW5fMF8xNTI1NDgyMjkxXzAxOQ/screen-0.jpg?fakeurl=1&type=.jpg" group-title = "CANAL ABERTO", WEB TV MINAS
 http://173.236.10.10:1935/webtvminas/webtvminas/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" título do grupo="RÁDIO",FM O DIA 100
+#EXTINF: -1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" título do grupo="RÁDIO", FM O DIA RJ
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
 
