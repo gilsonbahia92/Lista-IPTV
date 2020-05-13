@@ -12,15 +12,15 @@ https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&reba
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_da_RedeTV!_(2015%E2%80%932019).png" group-title="CANAL ABERTO", REDE TV
-https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="CANAL ABERTO", REDE TV
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 
 
 #EXTINF:-1 tvg-logo="https://juristas.com.br/wp-content/uploads/2018/08/logo-gazeta.png" group-title="CANAL ABERTO", TV GAZETA SP
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_tv_guarc3a1.png" group-title="Jornalismo", RECORD NEWS - TV GUARÁ (MA)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_tv_guarc3a1.png" group-title="CANAL ABERTO", RECORD NEWS - TV GUARÁ (MA)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 
 
@@ -87,7 +87,7 @@ http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 https://d338xh8x3vxa9e.cloudfront.net/out/v1/7d3c93fd8b74415d988bafbb9d515db3/index.m3u8
 
 
-#EXTINF:-1 tvg-logotipo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" grupo-title="CANAL ABERTO", TV CULTURA
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAL ABERTO", TV CULTURA
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8
 
 
