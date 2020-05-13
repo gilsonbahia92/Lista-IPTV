@@ -131,7 +131,7 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 http://173.236.10.10:1935/webtvminas/webtvminas/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" título do grupo = "RÁDIO", FM O DIA 100,5
+#EXTINF: -1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" título do grupo="RÁDIO",FM O DIA 100.5
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
 
