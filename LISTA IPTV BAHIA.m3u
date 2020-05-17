@@ -25,7 +25,7 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/1136b1e8-3718-4508-a4cc-6c4bce5b6b50.jpg" group-title="CANAL ABERTO", RECORD NEWS
-
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_tv_guarc3a1.png" group-title="CANAL ABERTO", RECORD NEWS - TV GUARÁ (MA)
@@ -136,7 +136,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1114734578/Logo_MSN_400x400.jpg" group-title="CANAL ABERTO", TV CARIOCA
-http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
+https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w969655373.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="CANAL ABERTO", TVE
@@ -149,10 +149,3 @@ http://173.236.10.10:1935/webtvminas/webtvminas/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" título do grupo="RÁDIO", FM O DIA RJ
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
-
-
-
-
-
-
-
