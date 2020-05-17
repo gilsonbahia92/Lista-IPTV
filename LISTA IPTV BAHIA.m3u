@@ -25,7 +25,7 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/1136b1e8-3718-4508-a4cc-6c4bce5b6b50.jpg" group-title="CANAL ABERTO", RECORD NEWS
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8?sd=10&rebase=on
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_tv_guarc3a1.png" group-title="CANAL ABERTO", RECORD NEWS - TV GUARÁ (MA)
