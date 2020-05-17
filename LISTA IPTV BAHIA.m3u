@@ -79,6 +79,7 @@ http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://catholicus.org.br/wp-content/uploads/2019/10/adriana-arydes-programa-na-tv-evangelizar-catholicus-696x464.jpg" group-title="CANAL ABERTO RELIGIOSO", TV EVANGELIZAR
 https://live-ak.vimeocdn.com/exp=1589690755~acl=%2Fe65bb482-409a-4200-9d94-672796c79f6d%2F%2A~hmac=17b90a312f31c7982cbbc1d7a927194db56ae1d488c4fe923132d257140b7283/e65bb482-409a-4200-9d94-672796c79f6d/chunklist_b728000.m3u8?max_segments=10
 
+
 #EXTINF:-1 tvg-logo="https://www.rs21.com.br/wp-content/uploads/2016/07/logo-rs21-azul.jpg" group-title="CANAL ABERTO RELIGIOSO", REDE SÉCULO 21
 https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index_15.m3u8
 
@@ -106,7 +107,7 @@ https://live.video.globo.com/h/0411589412861738250000815893300653247438296FB7IMI
 https://video-rvd-sp-gw-1.rnp.br/live/ocp(t(Ff4zbFoynno)r(TOqkzw)a(u21aHA)p(d(lCo)k(ow8)m(Y_5mnuXzVBChFcIIVXHlfg)n(a(P6GmWw)s(vSE)'a(5S_Tsw)s(h8I)'a(SP4Adw)s(jQY)'a(M7P8fg)s(pKs)))s(s(WJg)b(TAcGqqZYc7PVU78_s9wXdXZYK3pmV9ua5rj98_1W2rW8iTiYgLk13_tDWBmnXDMz1chiSulgRY-QPOtuUg)'s(h8w)b(rddGYChLbOTf2ffsIO03Md2a4ClQqz4QukRYytywUrn6OzEkfw-uVreMY0IpB-oueZBiK8re_de0LPKgSQtuRpu3ZyTL6xVaugXIpcKJ)'s(GQM)b(R5CzpE2r))m(0))/tvescola_index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/62/2018/03/12/tv-cultura-logo-1520896008634_v2_450x450.jpg" grup-título="CANAL FECHADO", MUSIC TOP HD
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_e_57qMs5hU/XRD-o6ktfjI/AAAAAAAABM8/54bGOikS6SMavTF7LEefte3qHaZbG8tCACLcBGAs/s320/Screenshot_2019-06-24-13-39-35.png" grup-título="CANAL FECHADO", MUSIC TOP HD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 
