@@ -65,7 +65,7 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="CANAL ABERTO RELIGIOSO", TV APARECIDA
-https://s2me.com.br:8082/gctvaparecida/gctvaparecida/gctvap/gctvap_720p/chunks.m3u8?nimblesessionid=19056
+https://caikron.com.br:8082/cktvlive/cktvlive/cktv/cktv_720p/chunks.m3u8?nimblesessionid=8105904
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="CANAL ABERTO RELIGIOSO", REDE VIDA
@@ -77,7 +77,7 @@ http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://catholicus.org.br/wp-content/uploads/2019/10/adriana-arydes-programa-na-tv-evangelizar-catholicus-696x464.jpg" group-title="CANAL ABERTO RELIGIOSO", TV EVANGELIZAR
-https://live-ak.vimeocdn.com/exp=1589690755~acl=%2Fe65bb482-409a-4200-9d94-672796c79f6d%2F%2A~hmac=17b90a312f31c7982cbbc1d7a927194db56ae1d488c4fe923132d257140b7283/e65bb482-409a-4200-9d94-672796c79f6d/chunklist_b728000.m3u8?max_segments=10
+https://video-rvd-pe-cdc-gw-2-1.rnp.br/live/ocp(t(FhLZHDlGhms)r(TOqkzw)a(u21Z8Q)p(d(lCo)k(oxE)m(RV2i7cr7N59FHyjl5eLJ0g)n(a(GE7TMQ)s(agA)'a(8pTqZw)s(RX8)))s(s(JTA)b(k6bbx2VtoGIj50dr8huMvEhh5C0cwifLeBqkU_62mXWiyM0bgspt0NX3UvWq4WrLTU-HdMHU01qPzRRxBA)'s(9oU)b(or7IgTT8JjYlgbO7RaG6xednVgyxvZrvaIGXmLyKDWViQWeMnyn4xhSrqg3rUDqKoSzDYhkyWSsSf5H0gfoiN0hHBa38Dhj3yHk__Yht)'s(S8A)b(wFeyx_iE))m(0))/27_index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.rs21.com.br/wp-content/uploads/2016/07/logo-rs21-azul.jpg" group-title="CANAL ABERTO RELIGIOSO", REDE SÉCULO 21
@@ -100,7 +100,7 @@ https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO", FUTURA
-https://live.video.globo.com/h/0411589412861738250000815893300653247438296FB7IMI-6Yf15YsiYQneDQA/k/html5/a/A/d/s/hls-futura24ha/hls-futura24ha_2126/playlist.m3u8
+https://live.video.globo.com/h/0411590659461182903356915905766614119293822qB3_P_cmJHtrq4yWyaWrKg/k/html5/a/A/d/s/hls-futura24ha/hls-futura24ha_2126/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png" group-title="CANAL ABERTO", TV ESCOLA
@@ -128,8 +128,7 @@ https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w1545116752_DVR.m
 
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" grupo-título = "CANAL ABERTO", TV BRASIL 2
-https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
-
+https://video-rvd-pe-cdc-gw-2-1.rnp.br/live/ocp(t(FhLZHDlGhms)r(TOqkzw)a(u21Z8Q)p(d(lCo)k(oxE)m(RV2i7cr7N59FHyjl5eLJ0g)n(a(GE7TMQ)s(agA)'a(8pTqZw)s(RX8)))s(s(JTA)b(k6bbx2VtoGIj50dr8huMvEhh5C0cwifLeBqkU_62mXWiyM0bgspt0NX3UvWq4WrLTU-HdMHU01qPzRRxBA)'s(9oU)b(or7IgTT8JjYlgbO7RaG6xednVgyxvZrvaIGXmLyKDWViQWeMnyn4xhSrqg3rUDqKoSzDYhkyWSsSf5H0gfoiN0hHBa38Dhj3yHk__Yht)'s(S8A)b(wFeyx_iE))m(0))/27_index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title = "CANAL ABERTO", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
