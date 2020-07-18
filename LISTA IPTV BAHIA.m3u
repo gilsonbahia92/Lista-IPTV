@@ -61,15 +61,15 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="CANAL ABERTO RELIGIOSO", GOSPEL CARTOON
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w899927341.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="CANAL ABERTO RELIGIOSO", TV APARECIDA
-https://caikron.com.br:8082/cktvlive/cktvlive/cktv/cktv_720p/chunks.m3u8?nimblesessionid=9532268
+https://caikron.com.br:8082/santuario_aparecida/canal1/chunks.m3u8?nimblesessionid=11136763
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="CANAL ABERTO RELIGIOSO", REDE VIDA
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bd7faf92fdaec94b7a0b2ca5f5f362b1.png" grupo-título="CANAL ABERTO RELIGIOSO", TVCI - PAI ETERNO
