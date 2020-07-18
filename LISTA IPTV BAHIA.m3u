@@ -37,7 +37,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="CANAL ABERTO", TV DIÁRIO
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZdg6q7ek2hMyhDeZa2tJ_0w)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZdg6q7ek2hMyhDeZa2tJ_0w)/dm/3/x7txn7q/s/live-4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede_famc3adlia.png" group-title="CANAL ABERTO", REDE FAMÍIA
@@ -108,11 +108,11 @@ https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO", FUTURA
-https://live-fe-cm-al-13-38.video.globo.com/d/s/hls-futura24ha/hls-futura24ha_2126/playlist.m3u8
+https://live-fe-cm-al-14-37.video.globo.com/d/s/hls-futura24ha/hls-futura24ha_2126/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://propp.ufop.br/profiles/cambridge/themes/cambridge_theme/images/interface/logo_ufop1.png" group-title="CANAL ABERTO", TV UFOP - FUTURA
-https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FhLaNbkmdik)r(TOqkzw)a(u21Z8Q)p(d(lCo)k(oxE)m(rCJbgy4oAJHgCCgdg7SIjg)n(a(VWratA)s(8v0)'a(HREawA)s(JFY)))s(s(NUU)b(UHcvEPnF3MPkxYQBhJJr212jHnMB0X3S9Kz5NMrPDJx4ySooXKk-E7GlfOJNhRaZ33o52K-hDNilQ7jsbg)'s(uzc)b(_ZpdbW43cYTFPHECadjTqjSvInLXv87Z4KSE1PdQRdHvnnaWbw48W5fFmySHKHWBvaCYW8_HnV-7aYSPW4R_1U9AeMVxyWsY_HvE9TFE)'s(Tpo)b(gojsU3lY))m(0))/q8ev-scy8-9cfa-b8jh_index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png" group-title="CANAL ABERTO", TV ESCOLA
