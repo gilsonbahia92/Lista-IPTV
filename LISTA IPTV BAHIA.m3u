@@ -52,8 +52,12 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1265017
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title="CANAL ABERTO RELIGIOSO", TV MUNDIAL
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="CANAL ABERTO RELIGIOSO", TV MUNDIAL
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c44a8bd6e3634b22e307678c4f21d127.png" group-title="CANAL ABERTO RELIGIOSO", RIT
+https://youtu.be/DSSNt6Zk_KU
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="CANAL ABERTO RELIGIOSO", TV NOVO TEMPO
@@ -104,7 +108,7 @@ https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO", FUTURA
-https://live-fe-cm-aq-19-39.video.globo.com/h/0411593431846327034910915933490554830440074NE9fypXSwOSMZU0GuWyxIw/k/html5/a/A/d/s/hls-futura24ha/hls-futura24ha_2126/playlist.m3u8
+https://live-fe-cm-al-13-38.video.globo.com/d/s/hls-futura24ha/hls-futura24ha_2126/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://propp.ufop.br/profiles/cambridge/themes/cambridge_theme/images/interface/logo_ufop1.png" group-title="CANAL ABERTO", TV UFOP - FUTURA
