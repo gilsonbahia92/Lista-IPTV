@@ -32,7 +32,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?sd=10&r
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/720682407624630278/8WwwnQGp_400x400.jpg" group-title="CANAL ABERTO", TV PAMPA
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf5bd325078d65bb2eaffffc84a3bf7a.jpg" group-title="CANAL ABERTO", TV PAMPA
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1480597045.m3u8
 
 
