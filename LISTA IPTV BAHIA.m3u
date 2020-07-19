@@ -57,7 +57,7 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIO
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c44a8bd6e3634b22e307678c4f21d127.png" group-title="CANAL ABERTO RELIGIOSO", RIT
-https://youtu.be/DSSNt6Zk_KU
+<iframe width="550" height="308" src="https://www.youtube.com/embed/DSSNt6Zk_KU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="CANAL ABERTO RELIGIOSO", TV NOVO TEMPO
