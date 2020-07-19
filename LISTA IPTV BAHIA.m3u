@@ -48,6 +48,10 @@ https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/chunklist_b1628000.m3u8
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w126501766.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/20211a3689f153de32e70cc0e29da4a4.jpg" group-title="CANAL ABERTO", BAND NEWS
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w2029618431.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://noticias.gospelmais.com.br/files/2015/05/rede-super-de-televisao-e1432812160707.jpg" group-title="CANAL ABERTO RELIGIOSO", REDE SUPER
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
 
@@ -57,7 +61,7 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIO
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c44a8bd6e3634b22e307678c4f21d127.png" group-title="CANAL ABERTO RELIGIOSO", RIT
-<iframe width="550" height="308" src="https://www.youtube.com/embed/DSSNt6Zk_KU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="CANAL ABERTO RELIGIOSO", TV NOVO TEMPO
@@ -73,7 +77,7 @@ https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w899927341.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="CANAL ABERTO RELIGIOSO", TV APARECIDA
-https://caikron.com.br:8082/santuario_aparecida/canal1/chunks.m3u8?nimblesessionid=11136763
+https://caikron.com.br:8082/tvaparecida/live/chunks.m3u8?nimblesessionid=11320642
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="CANAL ABERTO RELIGIOSO", REDE VIDA
@@ -137,9 +141,12 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8
 #EXTINF: -1 tvg-logo="http://blog.saude.mg.gov.br/wp-content/uploads/2017/08/Canal-Sa%C3%BAde_Fiocruz_2017-200x140.jpg" grupo-título="CANAL ABERTO", CANAL SAÚDE
 https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w1545116752_DVR.m3u8
 
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" grupo-título = "CANAL ABERTO", TV BRASIL
+https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8
+
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" grupo-título = "CANAL ABERTO", TV BRASIL 2
-https://video-rvd-pe-cdc-gw-2-1.rnp.br/live/ocp(t(FhLZHDlGhms)r(TOqkzw)a(u21Z8Q)p(d(lCo)k(oxE)m(RV2i7cr7N59FHyjl5eLJ0g)n(a(GE7TMQ)s(agA)'a(8pTqZw)s(RX8)))s(s(JTA)b(k6bbx2VtoGIj50dr8huMvEhh5C0cwifLeBqkU_62mXWiyM0bgspt0NX3UvWq4WrLTU-HdMHU01qPzRRxBA)'s(9oU)b(or7IgTT8JjYlgbO7RaG6xednVgyxvZrvaIGXmLyKDWViQWeMnyn4xhSrqg3rUDqKoSzDYhkyWSsSf5H0gfoiN0hHBa38Dhj3yHk__Yht)'s(S8A)b(wFeyx_iE))m(0))/27_index.m3u8
+https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(FiMLSmJzEkg)r(fVR9ug)a(qMXPuA)p(d(aGg)k(qNY)m(JbAM73btFtDPvZuCbq1uAQ)n(a(z1JyfQ)s(P4Q)'a(H9c8RQ)s(eQI)))s(s(XjU)b(j6yaOxWQVK2OTWy9zFGvCYVnYpxHkIuggBXeuDuuBBlEZBJia3ob0TUJktaQtHhthPUPLSKnojiyhmZulA)'s(um0)b(Q3MW5t8qDFpyJc7NRrmLZzS1-PtOYPFxvMnmjpOI_cfkDPbexNL2igdA1e68JMxWYAzWZHM3RPscp2Ea4Pq71R0Se1-SJarSm8ZrsJM1)'s(Wf4)b(U6OVYGJH))m(0))/28_index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/d/db/Tvsenado.jpg/revision/latest?cb=20160604222123&path-prefix=pt-br" grupo-título = "CANAL ABERTO", TV SENADO
