@@ -1,124 +1,130 @@
 # EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.png" group-title="CANAL ABERTO", SBT HD
+#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.png" group-title="CANAIS ABERTOS", SBT HD
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="CANAL ABERTO", RECORD TV
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="CANAIS ABERTOS", RECORD TV
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="CANAL ABERTO", BAND
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="CANAIS ABERTOS", BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.redetv.uol.com.br/favicon.ico" group-title="CANAL ABERTO", REDE TV
+#EXTINF:-1 tvg-logo="https://www.redetv.uol.com.br/favicon.ico" group-title="CANAIS ABERTOS", REDE TV
 
 
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="CANAL ABERTO", TV ARAPUAN HD - REDE TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="CANAIS ABERTOS", TV ARAPUAN HD - REDE TV
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 
 
-#EXTINF:-1 tvg-logo="https://juristas.com.br/wp-content/uploads/2018/08/logo-gazeta.png" group-title="CANAL ABERTO", TV GAZETA SP
+#EXTINF:-1 tvg-logo="https://juristas.com.br/wp-content/uploads/2018/08/logo-gazeta.png" group-title="CANAIS ABERTOS", TV GAZETA SP
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/1136b1e8-3718-4508-a4cc-6c4bce5b6b50.jpg" group-title="CANAL ABERTO", RECORD NEWS
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_tv_guarc3a1.png" group-title="CANAL ABERTO", RECORD NEWS - TV GUARÁ (MA)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_tv_guarc3a1.png" group-title="CANAIS ABERTOS", RECORD NEWS - TV GUARÁ (MA)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf5bd325078d65bb2eaffffc84a3bf7a.jpg" group-title="CANAL ABERTO", TV PAMPA
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf5bd325078d65bb2eaffffc84a3bf7a.jpg" group-title="CANAIS ABERTOS", TV PAMPA
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1480597045.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="CANAL ABERTO", TV DIÁRIO
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTMs5ILPFL4C_nyct-oSj1g)/dm/3/x7txn7q/s/live-3.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="CANAIS ABERTOS", TV DIÁRIO
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTMs5ILPFL4C_nyct-oSj1g)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
 
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede_famc3adlia.png" group-title="CANAL ABERTO", REDE FAMÍIA
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede_famc3adlia.png" group-title="CANAIS ABERTOS", REDE FAMÍIA
 https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/chunklist_b1628000.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAL ABERTO", REDE BRASIL
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAIS ABERTOS", REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w126501766.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/20211a3689f153de32e70cc0e29da4a4.jpg" group-title="CANAL ABERTO", BAND NEWS
+#EXTINF:-1 tvg-logo="https://s03.video.glbimg.com/x720/61910.jpg " group-title="CANAIS DE NOTÍCIAS", GLOBO NEWS
+https://live-fe-cm-al-13-38.video.globo.com/d/nl/s/hls-gnews24ha/hls-gnews24ha_2126/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/20211a3689f153de32e70cc0e29da4a4.jpg" group-title="CANAIS DE NOTÍCIAS", BAND NEWS
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w2029618431.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://noticias.gospelmais.com.br/files/2015/05/rede-super-de-televisao-e1432812160707.jpg" group-title="CANAL ABERTO RELIGIOSO", REDE SUPER
+#EXTINF:-1 tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/1136b1e8-3718-4508-a4cc-6c4bce5b6b50.jpg" group-title=" CANAIS DE NOTÍCIAS ", RECORD NEWS
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/1136b1e8-3718-4508-a4cc-6c4bce5b6b50.jpg" group-title=" CANAIS DE NOTÍCIAS ", CNN
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://noticias.gospelmais.com.br/files/2015/05/rede-super-de-televisao-e1432812160707.jpg" group-title="CANAIS ABERTOS RELIGIOSOS", REDE SUPER
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="CANAL ABERTO RELIGIOSO", TV MUNDIAL
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="CANAIS ABERTOS RELIGIOSOS", TV MUNDIAL
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c44a8bd6e3634b22e307678c4f21d127.png" group-title="CANAL ABERTO RELIGIOSO", RIT
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c44a8bd6e3634b22e307678c4f21d127.png" group-title="CANAIS ABERTOS RELIGIOSOS", RIT
 
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="CANAL ABERTO RELIGIOSO", TV NOVO TEMPO
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="CANAIS ABERTOS RELIGIOSOS", TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="CANAL ABERTO RELIGIOSO",REDE GOSPEL
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="CANAIS ABERTOS RELIGIOSOS",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="CANAL ABERTO RELIGIOSO", GOSPEL CARTOON
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="CANAIS ABERTOS RELIGIOSOS", GOSPEL CARTOON
 https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w899927341.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="CANAL ABERTO RELIGIOSO", TV APARECIDA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="CANAIS ABERTOS RELIGIOSOS", TV APARECIDA
 https://caikron.com.br:8082/tvaparecida/live/chunks.m3u8?nimblesessionid=11320642
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="CANAL ABERTO RELIGIOSO", REDE VIDA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="CANAIS ABERTOS RELIGIOSOS", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bd7faf92fdaec94b7a0b2ca5f5f362b1.png" grupo-título="CANAL ABERTO RELIGIOSO", TVCI - PAI ETERNO
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bd7faf92fdaec94b7a0b2ca5f5f362b1.png" grupo-título="CANAIS ABERTOS RELIGIOSOS", TVCI - PAI ETERNO
 http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://catholicus.org.br/wp-content/uploads/2019/10/adriana-arydes-programa-na-tv-evangelizar-catholicus-696x464.jpg" group-title="CANAL ABERTO RELIGIOSO", TV EVANGELIZAR
+#EXTINF:-1 tvg-logo="https://catholicus.org.br/wp-content/uploads/2019/10/adriana-arydes-programa-na-tv-evangelizar-catholicus-696x464.jpg" group-title="CANAIS ABERTOS RELIGIOSOS", TV EVANGELIZAR
 https://live-ak.vimeocdn.com/exp=1595129987~acl=%2Ff3839967-bf2e-4cd8-9bdb-aebf86356ebb%2F%2A~hmac=295ce320c1922b1d12f5c5ed9b19240338373f1a368ee70b8d2411141deb3823/f3839967-bf2e-4cd8-9bdb-aebf86356ebb/chunklist_b728000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rs21.com.br/wp-content/uploads/2016/07/logo-rs21-azul.jpg" group-title="CANAL ABERTO RELIGIOSO", REDE SÉCULO 21
+#EXTINF:-1 tvg-logo="https://www.rs21.com.br/wp-content/uploads/2016/07/logo-rs21-azul.jpg" group-title="CANAIS ABERTOS RELIGIOSOS", REDE SÉCULO 21
 https://dhxt2zok2aqcr.cloudfront.net/live/rs21_240p264k/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/br_boa-vontade-tv_m.png" group-title="CANAL ABERTO RELIGIOSO", BOA VONTADE TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/br_boa-vontade-tv_m.png" group-title="CANAIS ABERTOS RELIGIOSOS", BOA VONTADE TV
 http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://canalrural.uol.com.br/wp-content/themes/mcmurphy/img/logo.png" grupo-título="CANAL ABERTO", CANAL RURAL
+#EXTINF:-1 tvg-logo="http://canalrural.uol.com.br/wp-content/themes/mcmurphy/img/logo.png" grupo-título="CANAIS ABERTOS", CANAL RURAL
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="CANAL ABERTO", CNT
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="CANAIS ABERTOS", CNT
 https://d338xh8x3vxa9e.cloudfront.net/out/v1/7d3c93fd8b74415d988bafbb9d515db3/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAL ABERTO", TV CULTURA
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAIS ABERTOS", TV CULTURA
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO", FUTURA
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAIS ABERTOS", FUTURA
 https://live-fe-cm-al-14-37.video.globo.com/d/s/hls-futura24ha/hls-futura24ha_2126/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://propp.ufop.br/profiles/cambridge/themes/cambridge_theme/images/interface/logo_ufop1.png" group-title="CANAL ABERTO", TV UFOP - FUTURA
+#EXTINF:-1 tvg-logo="https://propp.ufop.br/profiles/cambridge/themes/cambridge_theme/images/interface/logo_ufop1.png" group-title="CANAIS ABERTOS", TV UFOP - FUTURA
 
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png" group-title="CANAL ABERTO", TV ESCOLA
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png" group-title="CANAIS ABERTOS", TV ESCOLA
 https://video-rvd-sp-gw-1.rnp.br/live/ocp(t(Ff4zbFoynno)r(TOqkzw)a(u21aHA)p(d(lCo)k(ow8)m(Y_5mnuXzVBChFcIIVXHlfg)n(a(P6GmWw)s(vSE)'a(5S_Tsw)s(h8I)'a(SP4Adw)s(jQY)'a(M7P8fg)s(pKs)))s(s(WJg)b(TAcGqqZYc7PVU78_s9wXdXZYK3pmV9ua5rj98_1W2rW8iTiYgLk13_tDWBmnXDMz1chiSulgRY-QPOtuUg)'s(h8w)b(rddGYChLbOTf2ffsIO03Md2a4ClQqz4QukRYytywUrn6OzEkfw-uVreMY0IpB-oueZBiK8re_de0LPKgSQtuRpu3ZyTL6xVaugXIpcKJ)'s(GQM)b(R5CzpE2r))m(0))/tvescola_index.m3u8
 
 
@@ -126,46 +132,46 @@ https://video-rvd-sp-gw-1.rnp.br/live/ocp(t(Ff4zbFoynno)r(TOqkzw)a(u21aHA)p(d(lC
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2a5ebc5035219e29f0b474691d0b1041.png" grupo-título="CANAL ABERTO", TOP TV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2a5ebc5035219e29f0b474691d0b1041.png" grupo-título="CANAIS DE MÚSICA", TOP TV
 https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w2014788332.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="CANAL ABERTO", REDE MINAS
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="CANAIS ABERTOS", REDE MINAS
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.almg.gov.br/export/system/modules/br.gov.almg.site.portal/resources/img/logo.png" grupo-título="CANAL ABERTO", TV ALMG
+#EXTINF:-1 tvg-logo="https://www.almg.gov.br/export/system/modules/br.gov.almg.site.portal/resources/img/logo.png" grupo-título="CANAIS ABERTOS", TV ALMG
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8
 
 
-#EXTINF: -1 tvg-logo="http://blog.saude.mg.gov.br/wp-content/uploads/2017/08/Canal-Sa%C3%BAde_Fiocruz_2017-200x140.jpg" grupo-título="CANAL ABERTO", CANAL SAÚDE
+#EXTINF: -1 tvg-logo="http://blog.saude.mg.gov.br/wp-content/uploads/2017/08/Canal-Sa%C3%BAde_Fiocruz_2017-200x140.jpg" grupo-título="CANAIS ABERTOS", CANAL SAÚDE
 https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w1545116752_DVR.m3u8
 
-#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" grupo-título = "CANAL ABERTO", TV BRASIL
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" grupo-título = "CANAIS ABERTOS", TV BRASIL
 https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8
 
 
-#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" grupo-título = "CANAL ABERTO", TV BRASIL 2
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" grupo-título = "CANAIS ABERTOS", TV BRASIL 2
 https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(FiMLSmJzEkg)r(fVR9ug)a(qMXPuA)p(d(aGg)k(qNY)m(JbAM73btFtDPvZuCbq1uAQ)n(a(z1JyfQ)s(P4Q)'a(H9c8RQ)s(eQI)))s(s(XjU)b(j6yaOxWQVK2OTWy9zFGvCYVnYpxHkIuggBXeuDuuBBlEZBJia3ob0TUJktaQtHhthPUPLSKnojiyhmZulA)'s(um0)b(Q3MW5t8qDFpyJc7NRrmLZzS1-PtOYPFxvMnmjpOI_cfkDPbexNL2igdA1e68JMxWYAzWZHM3RPscp2Ea4Pq71R0Se1-SJarSm8ZrsJM1)'s(Wf4)b(U6OVYGJH))m(0))/28_index.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/d/db/Tvsenado.jpg/revision/latest?cb=20160604222123&path-prefix=pt-br" grupo-título = "CANAL ABERTO", TV SENADO
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/d/db/Tvsenado.jpg/revision/latest?cb=20160604222123&path-prefix=pt-br" grupo-título = "CANAIS ABERTOS", TV SENADO
 
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title = "CANAL ABERTO", TV CÂMARA
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title = "CANAIS ABERTOS", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1114734578/Logo_MSN_400x400.jpg" group-title="CANAL ABERTO", TV CARIOCA
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1114734578/Logo_MSN_400x400.jpg" group-title="CANAIS ABERTOS", TV CARIOCA
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w969655373.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="CANAL ABERTO", TVE
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="CANAIS ABERTOS", TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-gZrsS-LYKAc/XVmJlUPXSzI/AAAAAAAABh4/0vKrw7sIQfkP7oR3VZDTsj78xqTrrdbUQCLcBGAs/s320/Screenshot_2019-08-18-14-21-21.png" group-title = "CANAL ABERTO", WEB TV MINAS
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-gZrsS-LYKAc/XVmJlUPXSzI/AAAAAAAABh4/0vKrw7sIQfkP7oR3VZDTsj78xqTrrdbUQCLcBGAs/s320/Screenshot_2019-08-18-14-21-21.png" group-title = "CANAIS ABERTOS", WEB TV MINAS
 http://173.236.10.10:1935/webtvminas/webtvminas/playlist.m3u8
 
 
