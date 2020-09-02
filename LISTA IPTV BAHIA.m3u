@@ -33,7 +33,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1
 https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTMs5ILPFL4C_nyct-oSj1g)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
 
 
-#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede_famc3adlia.png" group-title="CANAIS ABERTOS", REDE FAMÍIA
+#EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede_famc3adlia.png" group-title="CANAIS ABERTOS", REDE FAMÍLIA
 https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/chunklist_b1628000.m3u8
 
 
@@ -116,7 +116,7 @@ https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAIS ABERTOS", FUTURA
-https://live-fe-cm-al-14-37.video.globo.com/d/s/hls-futura24ha/hls-futura24ha_2126/playlist.m3u8
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
 #EXTINF:-1 tvg-logo="https://propp.ufop.br/profiles/cambridge/themes/cambridge_theme/images/interface/logo_ufop1.png" group-title="CANAIS ABERTOS", TV UFOP - FUTURA
