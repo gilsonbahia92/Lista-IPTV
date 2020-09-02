@@ -42,7 +42,7 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1265017
 
 
 #EXTINF:-1 tvg-logo="https://s03.video.glbimg.com/x720/61910.jpg " group-title="CANAIS DE NOTÍCIAS", GLOBO NEWS
-https://live-fe-cm-al-13-38.video.globo.com/d/nl/s/hls-gnews24ha/hls-gnews24ha_2126/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/20211a3689f153de32e70cc0e29da4a4.jpg" group-title="CANAIS DE NOTÍCIAS", BAND NEWS
@@ -105,6 +105,11 @@ http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://canalrural.uol.com.br/wp-content/themes/mcmurphy/img/logo.png" grupo-título="CANAIS ABERTOS", CANAL RURAL
+https://5f1838950758d.streamlock.net/live/aovivo.smil/chunklist_w1231464564_b1396000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="CANAIS ABERTOS", Agro Canal
+https://equipea.com.br/player
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="CANAIS ABERTOS", CNT
@@ -120,7 +125,7 @@ http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?
 
 
 #EXTINF:-1 tvg-logo="https://propp.ufop.br/profiles/cambridge/themes/cambridge_theme/images/interface/logo_ufop1.png" group-title="CANAIS ABERTOS", TV UFOP - FUTURA
-https://live-fe-cm-al-14-37.video.globo.com/d/s/hls-futura24ha/hls-futura24ha_4783/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png" group-title="CANAIS ABERTOS", TV ESCOLA
