@@ -1,7 +1,7 @@
 # EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.png" group-title="CANAIS ABERTOS", SBT HD
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
+https://cdn.jmvstream.com/w/LVW-9404/LVW9404_mgySsWAQLh/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="CANAIS ABERTOS", RECORD TV
@@ -9,7 +9,7 @@ https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&reba
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="CANAIS ABERTOS", BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+http://listaiptv.brcs.ml:8080/HD_BAND/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
 
 
 #EXTINF:-1 tvg-logo="https://www.redetv.uol.com.br/favicon.ico" group-title="CANAIS ABERTOS", REDE TV
