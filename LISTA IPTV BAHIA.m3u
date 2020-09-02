@@ -124,7 +124,7 @@ http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png" group-title="CANAIS ABERTOS", TV ESCOLA
-https://video-rvd-sp-gw-1.rnp.br/live/ocp(t(Ff4zbFoynno)r(TOqkzw)a(u21aHA)p(d(lCo)k(ow8)m(Y_5mnuXzVBChFcIIVXHlfg)n(a(P6GmWw)s(vSE)'a(5S_Tsw)s(h8I)'a(SP4Adw)s(jQY)'a(M7P8fg)s(pKs)))s(s(WJg)b(TAcGqqZYc7PVU78_s9wXdXZYK3pmV9ua5rj98_1W2rW8iTiYgLk13_tDWBmnXDMz1chiSulgRY-QPOtuUg)'s(h8w)b(rddGYChLbOTf2ffsIO03Md2a4ClQqz4QukRYytywUrn6OzEkfw-uVreMY0IpB-oueZBiK8re_de0LPKgSQtuRpu3ZyTL6xVaugXIpcKJ)'s(GQM)b(R5CzpE2r))m(0))/tvescola_index.m3u8
+https://video-rvd-pe-cdc-gw-1-1.rnp.br/live/ocp(t(FjEBwqLbRlQ)r(fVR9ug)a(u21Xjw)p(d(2xc)k(q78)m(p3qa7PjFHAgJWKZYUmMLAA)n(a(YXdjNQ)s(gwY)'a(LvxNSw)s(-yY)))s(s(0Og)b(165-upVDMQTmQLST6dVzQTcICqP_xmNmxkqbowu-DGJo3mMaivVYCq2oPO55Jc1JWOfJjGAwUCHbnjVSiw)'s(NPw)b(Z0aYtRHG6gpRnGlsPE_g2YOX_4Z8Oqi7ydjGTV8TQ6DgUpH_IdbIFsEz-Y8yEhJ05Q3itq3a5I9IKz1mB18SBXUbwnjD0BAOU3a_m-LE)'s(toY)b(GvkfFBqH))m(0))/tvescola_index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_e_57qMs5hU/XRD-o6ktfjI/AAAAAAAABM8/54bGOikS6SMavTF7LEefte3qHaZbG8tCACLcBGAs/s320/Screenshot_2019-06-24-13-39-35.png" grup-título="CANAL FECHADO", MUSIC TOP HD
@@ -136,7 +136,7 @@ https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w2014788332.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="CANAIS ABERTOS", REDE MINAS
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.almg.gov.br/export/system/modules/br.gov.almg.site.portal/resources/img/logo.png" grupo-título="CANAIS ABERTOS", TV ALMG
@@ -144,14 +144,15 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8
 
 
 #EXTINF: -1 tvg-logo="http://blog.saude.mg.gov.br/wp-content/uploads/2017/08/Canal-Sa%C3%BAde_Fiocruz_2017-200x140.jpg" grupo-título="CANAIS ABERTOS", CANAL SAÚDE
-https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w1545116752_DVR.m3u8
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
+
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" grupo-título = "CANAIS ABERTOS", TV BRASIL
-https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8
+https://video-rvd-pe-cdc-gw-3-1.rnp.br/live/ocp(t(FjEB8KyFAqQ)r(fVR9ug)a(u21Xjw)p(d(2xc)k(q78)m(5f1ZIi9A-N993YW9a6Oggw)n(a(UAI48Q)s(mA8)'a(47IRyg)s(zsw)))s(s(2AQ)b(iNstU28tjmbb35qLYUWjngNx26-2W1EvFwpubx2ugiPTQEwby7iAW_NkLMHz_sXAGMbnTciEY_B0NTiy1A)'s(EOk)b(fSXRilU6eQvV298_9VZCZ2_Z538sB62te2U-TUxj7vo5yW2iIOirFDe5VOtU1bRLTn45prc9IJ_CwkxJtvF07DocBqtD7OIxjB833IDy)'s(vCU)b(7Z9RXX9Q))m(0))/29_index.m3u8
 
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" grupo-título = "CANAIS ABERTOS", TV BRASIL 2
-https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(FiMLSmJzEkg)r(fVR9ug)a(qMXPuA)p(d(aGg)k(qNY)m(JbAM73btFtDPvZuCbq1uAQ)n(a(z1JyfQ)s(P4Q)'a(H9c8RQ)s(eQI)))s(s(XjU)b(j6yaOxWQVK2OTWy9zFGvCYVnYpxHkIuggBXeuDuuBBlEZBJia3ob0TUJktaQtHhthPUPLSKnojiyhmZulA)'s(um0)b(Q3MW5t8qDFpyJc7NRrmLZzS1-PtOYPFxvMnmjpOI_cfkDPbexNL2igdA1e68JMxWYAzWZHM3RPscp2Ea4Pq71R0Se1-SJarSm8ZrsJM1)'s(Wf4)b(U6OVYGJH))m(0))/28_index.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/d/db/Tvsenado.jpg/revision/latest?cb=20160604222123&path-prefix=pt-br" grupo-título = "CANAIS ABERTOS", TV SENADO
