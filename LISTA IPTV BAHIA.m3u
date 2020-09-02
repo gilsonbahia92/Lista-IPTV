@@ -9,8 +9,7 @@ https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&reba
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="CANAIS ABERTOS", BAND
-http://listaiptv.brcs.ml:8080/HD_BAND/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
+https://evpp.mm.uol.com.br/geob_band/aquinaband/chunklist_w943294563.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.redetv.uol.com.br/favicon.ico" group-title="CANAIS ABERTOS", REDE TV
 
