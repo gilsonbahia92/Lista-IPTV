@@ -109,7 +109,11 @@ https://5f1838950758d.streamlock.net/live/aovivo.smil/chunklist_w1231464564_b139
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="CANAIS ABERTOS", AGRO CANAL
-https://equipea.com.br/player.M3U8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://agromais.band.uol.com.br/assets/images/logo_agro.png" group-title="CANAIS ABERTOS", AGROMAIS
+https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w1746655136.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="CANAIS ABERTOS", CNT
