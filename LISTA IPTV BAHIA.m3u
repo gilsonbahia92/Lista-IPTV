@@ -1,7 +1,7 @@
 # EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.png" group-title="CANAIS ABERTOS", SBT HD
-https://5a1c76baf08c0.streamlock.net/sbtinterior/nucm2nf89n23habp4z7303hn6r5kcp4y/chunklist_w101931780.m3u8
+https://5a1c76baf08c0.streamlock.net/sbtinterior/4dngges2eyt9ys37s7sxy5nrlsy1vpbm/chunklist_w1099199271.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="CANAIS ABERTOS", RECORD TV
@@ -9,7 +9,7 @@ https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&reba
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/band.png" group-title="CANAIS ABERTOS", BAND
-https://evpp.mm.uol.com.br/geob_band/aquinaband/chunklist_w943294563.m3u8
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1671525141.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.redetv.uol.com.br/favicon.ico" group-title="CANAIS ABERTOS", REDE TV
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8?sd=10&rebase=on
@@ -32,7 +32,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="CANAIS ABERTOS", TV DIÁRIO
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTdFZMI09DyOHa4-rSCaWHo)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTHvJKrbAlUqnaZQAhGX21I)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/rede_famc3adlia.png" group-title="CANAIS ABERTOS", REDE FAMÍLIA
