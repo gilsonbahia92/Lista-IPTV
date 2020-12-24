@@ -128,19 +128,19 @@ https://d338xh8x3vxa9e.cloudfront.net/out/v1/7d3c93fd8b74415d988bafbb9d515db3/in
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAIS ABERTOS", TV CULTURA
-https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5R_opUuIyiEYO4JJlhVX9U)/dm/3/x7wur7g/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAIS ABERTOS", FUTURA
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
-#EXTINF:-1 tvg-logo="https://propp.ufop.br/profiles/cambridge/themes/cambridge_theme/images/interface/logo_ufop1.png" group-title="CANAIS ABERTOS", TV UFOP - FUTURA
-
+#EXTINF:-1 tvg-logo="https://propp.ufop.br/profiles/cambridge/themes/cambridge_theme/images/interface/logo_ufop1.png" group-title="CANAIS ABERTOS", TV UFOP
+https://video-rvd-rj-1.rnp.br/live/ocp(t(FlOaoFKE0ik)r(fVR9ug)a(u21b4w)p(d(2xc)k(q8M)m(DeH84GCyIg-3qGbJeVSwUA)n(a(eYm97A)s(Piw)'a(nvZZZw)s(5Kg)))s(s(_Ts)b(wD3jvEEO6S2QjHrld7I6ZrWje85EQyBA_B2V39Nj6_hdogR-1Yss57VRPptNDMnBwT9PkfO1sXOCSLEU9A)'s(F-w)b(xYPh69rauHZoRzx06WaWBZJBm62mAIeMvPP7habDeGN3i47w8yTCB73h9I5VfxBv5WS6ZkvdHDKh_ots7h0ubgLcTOjPPjzZyYFpvL4f)'s(pMw)b(J60EiQWJ))m(0))/q8ev-scy8-9cfa-b8jh_index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png" group-title="CANAIS ABERTOS", TV ESCOLA
-https://video-rvd-pe-cdc-gw-1-1.rnp.br/live/ocp(t(FjEBwqLbRlQ)r(fVR9ug)a(u21Xjw)p(d(2xc)k(q78)m(p3qa7PjFHAgJWKZYUmMLAA)n(a(YXdjNQ)s(gwY)'a(LvxNSw)s(-yY)))s(s(0Og)b(165-upVDMQTmQLST6dVzQTcICqP_xmNmxkqbowu-DGJo3mMaivVYCq2oPO55Jc1JWOfJjGAwUCHbnjVSiw)'s(NPw)b(Z0aYtRHG6gpRnGlsPE_g2YOX_4Z8Oqi7ydjGTV8TQ6DgUpH_IdbIFsEz-Y8yEhJ05Q3itq3a5I9IKz1mB18SBXUbwnjD0BAOU3a_m-LE)'s(toY)b(GvkfFBqH))m(0))/tvescola_index.m3u8
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQlZl3iAruAOSN5Lk1Di4Zk)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_e_57qMs5hU/XRD-o6ktfjI/AAAAAAAABM8/54bGOikS6SMavTF7LEefte3qHaZbG8tCACLcBGAs/s320/Screenshot_2019-06-24-13-39-35.png" grup-título="CANAL FECHADO", MUSIC TOP HD
@@ -148,7 +148,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2a5ebc5035219e29f0b474691d0b1041.png" grupo-título="CANAIS DE MÚSICA", TOP TV
-https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w2014788332.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="CANAIS ABERTOS", REDE MINAS
@@ -184,7 +184,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1114734578/Logo_MSN_400x400.jpg" group-title="CANAIS ABERTOS", TV CARIOCA
-https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w969655373.m3u8
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w381835348.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="CANAIS ABERTOS", TVE
@@ -192,7 +192,7 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-gZrsS-LYKAc/XVmJlUPXSzI/AAAAAAAABh4/0vKrw7sIQfkP7oR3VZDTsj78xqTrrdbUQCLcBGAs/s320/Screenshot_2019-08-18-14-21-21.png" group-title = "CANAIS ABERTOS", WEB TV MINAS
-http://173.236.10.10:1935/webtvminas/webtvminas/playlist.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" título do grupo="RÁDIO", FM O DIA RJ
