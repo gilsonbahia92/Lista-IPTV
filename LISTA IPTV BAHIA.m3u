@@ -1,7 +1,7 @@
 # EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.png" group-title="CANAIS ABERTOS", SBT HD
-https://5a1c76baf08c0.streamlock.net/sbtinterior/4dngges2eyt9ys37s7sxy5nrlsy1vpbm/chunklist_w1099199271.m3u8
+https://5a1c76baf08c0.streamlock.net/sbtinterior/1mav5vdk7hchgyjpwulrjtxf7lywjz24/chunklist_w829056948.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://backupimages.files.wordpress.com/2019/10/recordtv.png" group-title="CANAIS ABERTOS", RECORD TV
@@ -35,7 +35,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1
 https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQlZl3iAruAOSN5Lk1Di4Zk)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="CANAIS ABERTOS", TV MAR
+#EXTINF:-1 tvg-logo="https://tvmar.tv.br/novo/assets/img/SVGs/logo-tvmar.svg" group-title="CANAIS ABERTOS", TV MAR
 https://virtues.es:1936/tvmar/tvmar/chunklist_w304147237.m3u8
 
 
@@ -112,7 +112,7 @@ http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://canalrural.uol.com.br/wp-content/themes/mcmurphy/img/logo.png" grupo-título="CANAIS ABERTOS", CANAL RURAL
-https://5f1838950758d.streamlock.net/live/aovivo.smil/chunklist_w1231464564_b1396000_sleng.m3u8
+https://5a1c76baf08c0.streamlock.net/sbtinterior/1mav5vdk7hchgyjpwulrjtxf7lywjz24/chunklist_w829056948.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="CANAIS ABERTOS", AGRO CANAL
@@ -124,7 +124,6 @@ https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w1746655136.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="CANAIS ABERTOS", CNT
-https://d338xh8x3vxa9e.cloudfront.net/out/v1/7d3c93fd8b74415d988bafbb9d515db3/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAIS ABERTOS", TV CULTURA
@@ -132,7 +131,7 @@ https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5R_opUuIyiEYO4JJl
 
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAIS ABERTOS", FUTURA
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
 
 
 #EXTINF:-1 tvg-logo="https://propp.ufop.br/profiles/cambridge/themes/cambridge_theme/images/interface/logo_ufop1.png" group-title="CANAIS ABERTOS", TV UFOP
@@ -155,7 +154,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1773568.m3u8?sts=st=1608796221~exp=1608802821~acl=/*~hmac=d2da1c16784fc5d2df80049872fabaf057573381cee7ffb3e3b20d6dfccbdc35
 
 
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4641/cabecalho-4641-20190723200051.png" group-title="CANAIS ABERTOS", #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4641/cabecalho-4641-20190723200051.png" group-title="CANAIS ABERTOS", REDE MINAS - TV UM (UBÁ-MG)
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4641/cabecalho-4641-20190723200051.png" group-title="CANAIS ABERTOS", REDE MINAS - TV UM (UBÁ-MG)
 https://59f2354c05961.streamlock.net:1443/tvumdigital/_definst_/tvumdigital/chunklist_w110752920.m3u8
 
 
