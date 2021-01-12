@@ -89,7 +89,7 @@ https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w899927341.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="CANAIS ABERTOS RELIGIOSOS", TV APARECIDA
-
+https://caikron.com.br:8082/padroeira/padroeira/cktv/teste_source/chunks.m3u8?nimblesessionid=59873698
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="CANAIS ABERTOS RELIGIOSOS", REDE VIDA
@@ -124,6 +124,7 @@ https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w1746655136.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="CANAIS ABERTOS", CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAIS ABERTOS", TV CULTURA
