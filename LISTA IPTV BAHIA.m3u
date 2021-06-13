@@ -151,11 +151,15 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/967989989584678914/RHSny5J-_400x400.jpg" grupo-título = "CANAIS DE MÚSICA", KISS TV
+https://cast.cdnseguro.com:19360/8094/8094.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="CANAIS ABERTOS", REDE MINAS
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1773568.m3u8?sts=st=1608796221~exp=1608802821~acl=/*~hmac=d2da1c16784fc5d2df80049872fabaf057573381cee7ffb3e3b20d6dfccbdc35
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1261568.m3u8?sts=st=1623593598~exp=1623600198~acl=/*~hmac=bac3c69fe5ffbcef346a85d9136c8bf1b014fe1056c9c88a134cb88548c4a197
 
 
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4641/cabecalho-4641-20190723200051.png" group-title="CANAIS ABERTOS", REDE MINAS - TV UM (UBÁ-MG)
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4641/cabecalho-4641-20190723200051.png" group-title="CANAIS ABERTOS", TUM - UBÁ-MG
 https://59f2354c05961.streamlock.net:1443/tvumdigital/_definst_/tvumdigital/chunklist_w110752920.m3u8
 
 
